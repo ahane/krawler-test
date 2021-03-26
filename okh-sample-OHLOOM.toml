@@ -1,6 +1,6 @@
 okhv = "2.0"
 name = "OHLOOM"
-repo = "https://gitlab.com/ahane/krawler-test"
+repo = "https://github.com/ahane/krawler-test"
 version = "0.10.0"
 spdx-license = "CC-BY-SA-4.0"
 licensor = "Jens Meisner"
